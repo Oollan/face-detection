@@ -24,6 +24,3 @@ and then run it
 ```bash
 yarn start
 ```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
